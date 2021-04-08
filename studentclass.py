@@ -1,3 +1,4 @@
+# 类与定义
 class Student(object):
     def __init__(self, gender, name, score):
         self.__name = name
