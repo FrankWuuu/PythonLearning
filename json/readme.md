@@ -1,1 +1,1 @@
-ddeel with json file using python!
+deel with json file using python!
