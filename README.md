@@ -24,20 +24,16 @@ import cv2
 import pyrealsense2 as rs
 import numpy as np
 arr1 = np.array([1,2,3])
-
 ```
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
-
+### python code block
 ```python
 import cv2
+import pyrealsense2 as rs
 import numpy as np
+arr1 = np.array([1,2,3])
 ```
-## command code block
+### command code block
 ```command
 pip list
 ```
