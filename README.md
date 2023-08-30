@@ -35,5 +35,8 @@ puts markdown.to_html
 ```python
 import cv2
 import numpy as np
+```
 
+```command
+pip list
 ```
