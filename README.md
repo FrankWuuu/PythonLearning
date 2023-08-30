@@ -7,7 +7,7 @@
 
 here are the text *italics* **bold** 
 <br> 
-next line demo 
+next line demo by using \<br>
 <br> 
 ***demo***
 this is not next line
@@ -23,6 +23,7 @@ demo
 import cv2
 import pyrealsense2 as rs
 import numpy as np
+
 arr1 = np.array([1,2,3])
 ```
 
@@ -31,6 +32,7 @@ arr1 = np.array([1,2,3])
 import cv2
 import pyrealsense2 as rs
 import numpy as np
+
 arr1 = np.array([1,2,3])
 ```
 ### command code block
