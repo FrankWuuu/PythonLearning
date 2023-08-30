@@ -1,5 +1,3 @@
-# Python Learning Record
-
 # markdown demo
 # title 1
 ## title 2
